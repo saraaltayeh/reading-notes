@@ -12,6 +12,9 @@ SQL databases provide safe and scalable storage for a lot of websites and mobile
 ## the links related to prep tasks
 
 [SQL exercises](./sql.md)
+
 [The Command line](./command-line.md)
+
+[Typing Practice](./typing.md)
 
 ## Things I want to know more about
