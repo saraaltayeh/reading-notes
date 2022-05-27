@@ -9,6 +9,7 @@ SQL databases provide safe and scalable storage for a lot of websites and mobile
 - Relational Database: is a database organized according to the relational model of data and represents a collection of related (two-dimensional) tables.
  Using a relational database helps us to cut down on duplicated data and provides a much more useful data structure for us to interact with.
 
-## this link for SQL exercises
+## the links related to prep tasks
 
 [SQL exercises](./sql.md)
+[The Command line](./command-line.md)
