@@ -17,4 +17,6 @@ SQL databases provide safe and scalable storage for a lot of websites and mobile
 
 [Typing Practice](./typing.md)
 
+[Git Practice](./git-practice.md)
+
 ## Things I want to know more about
