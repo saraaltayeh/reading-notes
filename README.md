@@ -16,6 +16,8 @@
 
 [express REST API](./Express-rest-api.md)
 
+[Linked Lists](./Linked-Lists.md)
+
 ## Things I want to know more about
 
 - i want to understand more about Continuous Integration Continuous Delivery.
