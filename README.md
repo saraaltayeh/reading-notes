@@ -18,6 +18,8 @@
 
 [Linked Lists](./Linked-Lists.md)
 
+[Data-Modeling](./ Data-Modeling.md)
+
 ## Things I want to know more about
 
 - i want to understand more about Continuous Integration Continuous Delivery.
