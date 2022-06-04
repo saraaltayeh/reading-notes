@@ -18,7 +18,7 @@
 
 [Linked Lists](./Linked-Lists.md)
 
-[Data-Modeling](./ Data-Modeling.md)
+[Data Modeling](./Data-Modeling.md)
 
 ## Things I want to know more about
 
