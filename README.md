@@ -26,6 +26,8 @@
 
 [Event-Driven Programming](./Event-Driven-Programming.md)
 
+[Socket.io](./Socket.io.md)
+
 ## Things I want to know more about
 
 - i want to understand more about Continuous Integration Continuous Delivery.
