@@ -28,6 +28,8 @@
 
 [Socket.io](./Socket.io.md)
 
+[Message Queues](./MessageQueues.md)
+
 ## Things I want to know more about
 
 - i want to understand more about Continuous Integration Continuous Delivery.
