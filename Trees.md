@@ -11,6 +11,10 @@
 - Leaf - A leaf is a node that does not have any children
 - Height - The height of a tree is the number of edges from the root to the furthest leaf
 
+### Sample Tree
+
+![img](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/images/BinaryTree1.PNG)
+
 ## Traversals
 
 There are two categories of traversals when it comes to trees:
