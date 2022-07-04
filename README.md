@@ -32,7 +32,7 @@
 
 [Trees](./Trees.md)
 
-[AWS](./ AWS.md)
+[AWS](./AWS.md)
 
 ## Things I want to know more about
 
