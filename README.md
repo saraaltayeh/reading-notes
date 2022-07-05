@@ -34,6 +34,8 @@
 
 [AWS](./AWS.md)
 
+[S3 and Lambda](./S3-and-Lambda.md)
+
 ## Things I want to know more about
 
 - i want to understand more about Continuous Integration Continuous Delivery.
