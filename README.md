@@ -38,6 +38,8 @@
 
 [AWS: Events](./Events.md)
 
+[AWS: API, Dynamo and Lambda](./API-and-Dynamo.md)
+
 ## Things I want to know more about
 
 - i want to understand more about Continuous Integration Continuous Delivery.
