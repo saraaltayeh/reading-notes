@@ -40,6 +40,8 @@
 
 [AWS: API, Dynamo and Lambda](./API-and-Dynamo.md)
 
+[Component Based UI](./Component%20Based%20UI.md)
+
 ## Things I want to know more about
 
 - i want to understand more about Continuous Integration Continuous Delivery.
