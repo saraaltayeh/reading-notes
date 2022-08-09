@@ -42,6 +42,8 @@
 
 [Component Based UI](./Component-Based-UI.md)
 
+[Hooks](./Hook.md)
+
 ## Things I want to know more about
 
 - i want to understand more about Continuous Integration Continuous Delivery.
