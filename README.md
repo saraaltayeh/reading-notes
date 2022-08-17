@@ -48,6 +48,8 @@
 
 [State-with-Reducers](./State-with-Reducers.md)
 
+[HashTables](./HashTables.md)
+
 ## Things I want to know more about
 
 - i want to understand more about Continuous Integration Continuous Delivery.
