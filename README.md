@@ -60,6 +60,8 @@
 
 [combineReducers](./combineReducers.md)
 
+[Redux - Asynchronous Actions](./Asynchronous-Actions.md)
+
 ## Things I want to know more about
 
 - i want to understand more about Continuous Integration Continuous Delivery.
